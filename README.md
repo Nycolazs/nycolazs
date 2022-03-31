@@ -27,3 +27,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Fortaleza
           plugin_lines: yes
+
+![Metrics](https://metrics.lecoq.io/nycolazs?template=classic&config.timezone=America%2FFortaleza)
